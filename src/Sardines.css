@@ -1,0 +1,22 @@
+.Sardines {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    margin: 0px auto;
+}
+
+img {
+    justify-content: center;
+}
+
+.Sardines-link {
+    margin-top: 30px;
+}
+
+P {
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(55, 35, 237);
+    font-style: italic;
+}

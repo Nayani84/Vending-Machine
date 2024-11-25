@@ -1,0 +1,16 @@
+.Snack {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: fit-content;
+    margin: 0px auto;
+}
+
+.Snack-img {
+    justify-content: center;
+}
+
+.Snack-links {
+    display: flex;
+    flex-direction: column;
+}
